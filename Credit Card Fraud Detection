@@ -1,1 +1,6 @@
-
+Credit card fraud is a significant concern for financial institutions and cardholders worldwide. 
+This project aims to develop a robust machine learning model for detecting credit card fraud. 
+I utilized a comprehensive dataset containing credit card transactions, including features such as transaction amount, merchant category, and time of transaction, gender, City, State, Latitude, Longitude, cc num. By analyzing this dataset containing credit card transactions, model is trained to differentiate between legitimate and fraudulent transactions.
+The model's performance is evaluated based on metrics such as accuracy, precision, recall, and F1 score to ensure itseffectiveness in real-world applications.
+Employed various machine learning algorithms, including Logistic regression, Decision tree classifier and Random Forest to train the model and evaluated its performance using metrics such as accuracy, precision, recall, and F1 score.
+Among the three models created, Random Forest Classifier outshines the other model with Accuracy of 99%.
